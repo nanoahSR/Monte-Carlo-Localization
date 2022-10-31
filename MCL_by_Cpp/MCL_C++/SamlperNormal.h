@@ -1,0 +1,1 @@
+double Sampler(double variance);
